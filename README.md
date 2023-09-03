@@ -1,4 +1,4 @@
-# ashutoshmishra_IIT-Online-FSD-Aug23_CredsGeneration
+## ashutoshmishra_IIT-Online-FSD-Aug23_CredsGeneration
 This project creates credentials for new hires e.g. email and password by taking first & last name of the new hire
 #### In brief,  application  does the following:
 * Generates an email with the syntax firstNamelastName@department.company.com
